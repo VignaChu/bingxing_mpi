@@ -1,0 +1,2 @@
+# bingxing_mpi
+本段代码实现了使用MPI对口令猜测程序的PCFG部分中的guess部分实现加速
